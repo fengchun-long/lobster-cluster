@@ -1,0 +1,7 @@
+# 龙虾集群
+config.json
+tools/stock.py
+main/
+agents/*/SOUL.md
+agents/*/AGENTS.md
+README.md
